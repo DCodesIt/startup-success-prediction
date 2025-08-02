@@ -1,6 +1,6 @@
 # startup-success-prediction
 
-![Project Banner](notebooks/Startup_banner.avif)
+<img src="notebooks/Startup_banner.avif" alt="Project Banner" style="width: 100%; height: auto;" />
 
 Predicting startup success with Machine Learning on Crunchbase data for data-driven investment decisions.
 
