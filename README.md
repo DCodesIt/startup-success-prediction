@@ -1,5 +1,9 @@
 # startup-success-prediction
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub stars](https://img.shields.io/github/stars/DCodesIt/startup-success-prediction?style=social)
+
 <img src="notebooks/Startup_banner.avif" alt="Project Banner" style="width: 100%; height: auto;" />
 
 Predicting startup success with Machine Learning on Crunchbase data for data-driven investment decisions.
