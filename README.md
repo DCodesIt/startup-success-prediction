@@ -157,8 +157,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Divesh Chonkar
-Email: chonkar123divesh@gmail.com
+Divesh Chonkar  
+Email: chonkar123divesh@gmail.com  
 GitHub: https://github.com/DCodesIt
 
 ---
