@@ -70,7 +70,7 @@ These features aim to capture critical indicators of startup health and growth p
 - **Algorithms Used:** Random Forest Classifier and Neural Networks (TensorFlow).  
 - Models trained to classify startups into three categories:  
   - **Success** (acquired, IPO, or Series B+ funding)  
-  - **Failure** (closed or no Series B funding)  
+  - **Failure** (closed)  
   - **Operational** (active but not meeting success criteria)  
 
 - **Training Techniques:**  
