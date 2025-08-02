@@ -110,37 +110,40 @@ These features aim to capture critical indicators of startup health and growth p
    ```bash
    git clone https://github.com/yourusername/startup-success-prediction.git
 
-2.	Navigate to the notebooks directory:
+2. Navigate to the notebooks directory:
+   ```bash
    cd startup-success-prediction/notebooks
 
-3.	Install required packages (see requirements.txt):
+3. Install required packages (see requirements.txt):
+   ```bash
    pip install -r ../requirements.txt
 
-4.	Open and run the Jupyter Notebook:
+4. Open and run the Jupyter Notebook:
+   ```bash
    jupyter notebook Startup_Success_Prediction_Using_ML.ipynb
 
 ---
 
 ## Technologies Used
 
-	•	Python 3.8+
-	•	NumPy
-	•	pandas
-	•	scikit-learn
-	•	TensorFlow
-	•	imbalanced-learn (SMOTE)
-	•	matplotlib
-	•	seaborn
-	•	Jupyter Notebook
+- Python 3.8+
+- NumPy
+- pandas
+- scikit-learn
+- TensorFlow
+- imbalanced-learn (SMOTE)
+- matplotlib
+- seaborn
+- Jupyter Notebook
 
 ---
 
 ## Contributing
 
 Contributions are welcome! Feel free to:
-	•	Submit issues for bugs or feature requests.
-	•	Fork the repository and create pull requests with improvements.
-	•	Suggest enhancements or new features.
+- Submit issues for bugs or feature requests.
+- Fork the repository and create pull requests with improvements.
+- Suggest enhancements or new features.
 
 Please ensure all contributions adhere to the existing code style and include appropriate documentation.
 
